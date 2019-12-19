@@ -1,22 +1,37 @@
 {
   "name": "beingzero-training",
-  "version": "1.0.0",
+ 
+ "version": "1.0.0",
   "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+ 
+ "main": "index.js",
+ 
+ "scripts": {
+    "start": "node index.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Rahulthiru125/beingzero-training.git"
-  },
-  "author": "",
-  "license": "ISC",
+ 
+ "repository": {
+   
+ "type": "git",
+   
+ "url": "git+https://github.com/Rahulthiru125/beingzero-training.git"
+ 
+ },
+ 
+ "author": "",
+  
+"license": "ISC",
+
   "bugs": {
-    "url": "https://github.com/Rahulthiru125/beingzero-training/issues"
+    
+"url": "https://github.com/Rahulthiru125/beingzero-training/issues"
   },
-  "homepage": "https://github.com/Rahulthiru125/beingzero-training#readme",
-  "dependencies": {
-    "express": "^4.17.1"
+ 
+ "homepage":
+ "https://github.com/Rahulthiru125/beingzero-training#readme",
+ 
+ "dependencies": {
+   
+ "express": "^4.17.1"
   }
 }
