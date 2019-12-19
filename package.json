@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Rahulthiru125/beingzero-training/issues"
   },
-  "homepage": "https://github.com/Rahulthiru125/beingzero-training#readme"
+  "homepage": "https://github.com/Rahulthiru125/beingzero-training#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
